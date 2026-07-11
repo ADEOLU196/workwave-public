@@ -12,5 +12,3 @@ EXPOSE 3000
 
 CMD ["npm", "start"]
 
-
-### Dummy changes
